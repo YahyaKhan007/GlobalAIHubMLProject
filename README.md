@@ -1,1 +1,1 @@
-# GlobalAIHub
+# GlobalAIHubML Project
